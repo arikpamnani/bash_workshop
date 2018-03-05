@@ -1,3 +1,3 @@
-# bash_workshop
+## bash_workshop
 
-## This is the code for the bash workshop to be held in IIT Gandhinagar.
+### This is the code for the bash workshop to be held in IIT Gandhinagar.
