@@ -6,8 +6,8 @@
 - Functions
 - Arithmetic Operations
 - User Interaction
- - Bash Options
- - Notifications
- - Dialogs (Zenity)
+  - Bash Options
+  - Notifications
+  - Dialogs (Zenity)
 - Basics of FTP
 - Tools like wget, grep
