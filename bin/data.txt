@@ -1,0 +1,4 @@
+Apple,229.2,Computer
+Google,100.2,Internet
+Walmart,485.9,Retail
+Amazon,177.9,E-Commerce
