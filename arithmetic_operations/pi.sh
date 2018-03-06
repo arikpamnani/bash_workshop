@@ -1,11 +1,5 @@
 #!/bin/bash
 
-############################################
-#
-# @author: tarptaeya <tarptaeya@gmail.com>
-#
-############################################
-
 # function to calculate sq. root by newtons method
 function root {
   # bash doesn't support floats, so multiplyting 
@@ -39,4 +33,9 @@ do
   let sq_pi+=$((10000000000/(i*i)))
 done
 let sq_pi*=6
+
 root $sq_pi
+
+expr a=3.14 | bc -l
+echo $a
+echo 4/2.0 | bc -l
