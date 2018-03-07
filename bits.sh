@@ -17,7 +17,7 @@ echo Content of $2 -
 cat < $2	#display content of a file
 
 #command substitution
-my_var=$(ls /usr | wc -w)	#no. of items in /usr
+my_var=$(ls /usr | wc -l)	#no. of items in /usr
 echo $my_var
 
 
